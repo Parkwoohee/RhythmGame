@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53154286583",
+    "firebase_url": "https://bmsgame-e7020.firebaseio.com",
+    "project_id": "bmsgame-e7020",
+    "storage_bucket": "bmsgame-e7020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53154286583:android:ab8d471b39f25eba",
+        "android_client_info": {
+          "package_name": "unity.devandart.devandartAssets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53154286583-5s3iig80leik6evujlqbff7jb72tjmor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv3Zhd3RKJy7qI_rAouZKwn5hfdlHnSwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53154286583-5s3iig80leik6evujlqbff7jb72tjmor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
