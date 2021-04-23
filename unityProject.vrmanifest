@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.bmsrhythmgames.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\user\\Documents\\BMS Rhythm Games 2\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "BMS Rhythm Games [Testing]"
+        }
+      }
+    }
+  ]
+}
